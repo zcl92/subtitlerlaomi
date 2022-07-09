@@ -1,8 +1,245 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/zcl92/subtitlerlaomi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. 创伤：7天24小时待命的顿巴斯救护及疏散团队 Trauma: Paramedics risk their lives to save injured civilians in Donetsk, Ukraine(RT) 
+https://www.acfun.cn/v/ac33818665
+2. 前线：普京之路 FRONTLINE: Putin s Way 20150113(PBS) 
+https://www.acfun.cn/v/ac33818665
+3. 透视：亚洲无国籍少数族裔-阿富汗人 Insight 2021/2022 - S1E40: Asia's Stateless Minority（亚洲新闻台） 
+https://www.acfun.cn/v/ac33906709
+4. 监听站：乌克兰战争信息战 LISTENING POST: Info Wars In Ukraine War(ALJAZEERA）
+https://www.acfun.cn/v/ac33912973
+5. 采访最前线：日本独居潮 FOREIGN CORRESPONDENT:Flying Solo(ABC) 
+https://www.acfun.cn/v/ac33930093
+6. 我们的世界：塔利班新政权 OUR WORLD: Inside the Taliban Regime(BBC) 
+https://www.acfun.cn/v/ac33941886
+7. 采访最前线：身陷伊德利卜——利比亚最后的抵抗 20220317 FOREIGN CORRESPONDENT: Libya, the Forgotten War(ABC) 
+https://www.acfun.cn/v/ac33977695
+8. ARTE报道：向战争说不的俄罗斯人 ARTE REPORTAGE: Russland: Die Nein sagen zum Krieg (ARTE) 
+https://www.acfun.cn/v/ac33989154
+9. ARTE报道：乌克兰战争信息攻防战 ARTE REPORTAGE:Ukraine : la guerre de l'info (ARTE) 
+https://www.acfun.cn/v/ac33992072
+10. 前线：普京开战之路 FRONTLINE: Putin's Road to War(PBS)
+https://www.acfun.cn/v/ac34043261
+11-12. 合辑：单程（全二集） One Way(亚洲新闻台）
+https://www.acfun.cn/a/aa6083570
+13. 采访最前线：绝望与反抗：守卫基辅之战 FOREIGN CORRESPONDENT:Despair and Defiance-The Battle for Ukraine(ABC)
+https://www.acfun.cn/v/ac34128299
+https://www.youtube.com/watch?v=_xzXk7_Q39c&feature=youtu.be&ab_channel=SanleongJiu
+14. 我们的世界:默尔克的德国 OUR WORLD: Merkels Germany 20210827(BBC)
+https://www.acfun.cn/v/ac34233267
+15. 采访最前线：墨西哥女性凶杀案 FOREIGN CORRESPONDENT:Femicide Detective: Catching the Men Murdering Mexican Women(ABC)
+https://www.acfun.cn/v/ac34278870
+16. 和普京跳探戈 Tango wit
+h Putin (F@ck this job)(BBC)
+https://www.acfun.cn/a/aa6075057
+17. *新加坡总理李显龙出席美国外交关系协会对话会 Singapore PM Lee Hsien Loong speaks in dialogue with Council on Foreign Relations in the US(联合早报）
+https://www.acfun.cn/v/ac3433346
+18. 采访最前线：法国右转 FOREIGN CORRESPONDENT: March to the Right(ABC)
+https://www.acfun.cn/v/ac34358753
+19. *前线：美国人的选择：特朗普与拜登 FRONTLINE: The Choice 2020: Trump vs. Biden(无线电视）
+https://www.acfun.cn/v/ac34376606
+20. *逆行者特朗普 Trump: America Interrupted(无线电视)
+https://www.acfun.cn/v/ac34382217
+21. *特朗普·逆转胜 TRUMPED: Inside the Greatest Political Upset of All Time(香港电视娱乐）
+https://www.acfun.cn/v/ac34382902
+https://www.acfun.cn/v/ac34382902
+https://www.acfun.cn/v/ac34384238
+https://www.acfun.cn/v/ac34384778
+22. 学生唔易做 / 再加把劲！Try Harder!（BBC）
+https://www.bilibili.com/video/BV11Y4y1e7hU/?vd_source=233cdcbaa3a013cc4e8e2923f1c24a08
+https://www.acfun.cn/v/ac35256055
+https://www.ixigua.com/7085955446569173540?logTag=970e04cc0f28d9c9d541
+23. 快时尚后遗症 UNREPORTED WORLD:Fast Fashion's Toxic Legacy(CH4)
+https://www.acfun.cn/v/ac35256055
+https://www.bilibili.com/video/BV19A4y1975F/?vd_source=233cdcbaa3a013cc4e8e2923f1c24a08
+https://www.ixigua.com/7086341977117032996?logTag=2e1761845fd6bd4896fb
+24. *改变世界的一周：尼克松访华美国报道团解密 ASSIGNMENT:CHINA - The Week that Changed the World(南加州大学美中学院/凤凰卫视）
+https://www.acfun.cn/v/ac34433660
+https://www.acfun.cn/v/ac35163705
+25. 采访最前线：南韩快递员过劳死 FOREIGN CORRESPONDENT:Dead on Arrival(ABC)
+https://www.acfun.cn/v/ac34437496
+https://www.bilibili.com/video/BV1T94y1o7Jq?vd_source=233cdcbaa3a013cc4e8e2923f1c24a08
+26. 采访最前线：中国未来世代 FOREIGN CORRESPONDENT:China's Future(ABC)
+https://www.acfun.cn/v/ac34439699
+https://www.bilibili.com/video/BV1AS4y1A7py
+27. 采访最前线：塔利班新政权治下 FOREIGN CORRESPONDENT:Under Taliban Rule(ABC)
+https://www.acfun.cn/v/ac34444139
+28. 平民拆弹英雄 The Deminer(ALJAZEERA)
+https://www.acfun.cn/v/ac34462148
+29-32. 合辑：中国世纪（全四集） China Century(ABC)
+https://www.youtube.com/watch?v=9JbY5B7JP-A&list=PLKgUmzY9akx0BNS2qIO4yOJFNWK0WkWv1&ab_channel=SanleongJiu
+33. *澳洲大选论坛第一场:Scott Morrison vs Anthony Albanese[国语传译] FEDERAL ELECTION DEBATE: Scott Morrison and Anthony Albanese[MANDARIN](SBS)
+https://www.acfun.cn/v/ac34543231
+34. 半岛电视台新闻：乌克兰总统泽伦斯基首场国际记者会 President Zelenskyy speaks to media in metro station(ALJAZEERA)
+https://www.acfun.cn/v/ac34572165
+35. 时事内幕：全球防疫措施是否取消得过早？INSIDE STORY: Are COVID-19 measures being lifted too soon?(ALJAZEERA)
+https://www.acfun.cn/v/ac34581608
+36. 四角方圆：默多克与福克斯的惊世巨谎（上） FOUR CORNERS:Fox and Big Lies-Part 1(ABC)
+https://www.acfun.cn/v/ac34598965
+https://www.bilibili.com/video/BV1vT4y1a7Sr/
+37. 四角方圆：默多克与福克斯的惊世巨谎（下） FOUR CORNERS:Fox and Big Lies-Part 2(ABC)
+https://www.acfun.cn/v/ac34609856
+https://www.bilibili.com/video/BV165411m7CW/
+38-43. 合辑：皮尔斯·摩根一刀不剪秀：前总统特朗普专访（共六集） Piers Morgan:Uncensored-Donald Trump Interview:Highlights(TALK TV)
+https://www.acfun.cn/a/aa6072780
+44. 采访最前线：反战的俄罗斯人 FOREIGN CORRESPONDENT: The Russian Resistance(ABC)
+https://www.acfun.cn/a/aa6072780
+45. 逆权斗士纳瓦尔尼 Navalny(BBC)
+https://www.acfun.cn/v/ac35258646
+46. *为何会贫穷：太阳能妈妈：约旦女性脱贫战 WHY POVERTY: Solar Mamas(THE WHY FOUNDATION)
+https://www.acfun.cn/v/ac34743640
+47. 澳洲人物志：“毛时代最后的舞者”李存信和他失聪的女儿 AUSTRALIAN STORY: Sophie's Choice(ABC)
+https://www.acfun.cn/v/ac34752945
+48. *换日线：摩尔多瓦：普京下一个目标？DATELINE: Moldova: Putin's Next Target?(SBS)
+https://www.acfun.cn/v/ac34756944
+49. *2022澳洲大选财政部长辩论Josh Frydenberg / Jim Chalmer [国语传译] Josh Frydenberg and Jim Chalmers debate economic policy at the National Press Club[MANDARIN](SBS)
+https://www.acfun.cn/v/ac34756991
+50. *2022澳洲大选国防部长辩论PeterDutton / Brendan O Connor[国语传译] Peter Dutton and Brendan O'Connor debate defence policy[MANDARIN](SBS)
+https://www.acfun.cn/v/ac34757006
+51. 越战伤痕：橙剂公诉 The People vs. Agent Orange (PBS)
+https://www.acfun.cn/v/ac34819524
+https://www.bilibili.com/video/BV19Y411w7Pr/
+52. 战争在我身边 Trapped(RT)
+https://www.acfun.cn/v/ac34786757
+53. 采访最前线：刚果血钴 FOREIGN CORRESPONDENT:Blood Cobalt(ABC)
+https://www.acfun.cn/v/ac34880187
+https://www.ixigua.com/7073417482463085092?logTag=3b47163acec81696315d
+54. 皮尔斯·摩根一刀不剪秀：Piers Morgan与塔利班发言人沙欣激辩塔利班治下阿富汗女性权益 PIERS MORGAN:UNCENSORED-Piers Morgan goes toe to toe with Taliban (TALK TV)
+https://www.acfun.cn/v/ac34820167
+55. *2022澳洲大选第二场辩论：Albanese/Morrison[国语传译] Second leaders' debate: Scott Morrison and Anthony Albanese[Mandarin](SBS)
+https://www.acfun.cn/v/ac34873128
+56. *2022澳洲大选第三场辩论：Albanese/Morrison[国语传译] Third leaders' debate: Scott Morrison and Anthony Albanese[Mandarin](SBS)
+https://www.acfun.cn/v/ac34872757
+57. 101East: 南韩快递员过劳死 101 EAST: Dead on Arrival(ALJAZEERA)
+https://www.acfun.cn/v/ac34873961
+58. 希伯伦的天空 Skies over Hebrons(ALJAZEERA)
+https://www.acfun.cn/v/ac34885538
+59. 《金融时报》专访中情局局长伯恩斯 谈乌克兰战争和大陆解放军攻台 What the CIA thinks: William Burns on the new world disorder(金融时报）
+https://www.acfun.cn/v/ac34898134
+https://www.youtube.com/watch?v=90WVB-ReKGY&t=343s
+60. 真相的幻觉：美国人的信仰危机 The Truth Illusion(ALJAZEERA)
+https://www.acfun.cn/v/ac34936250
+61-64. 合辑：史丹利·特治：寻味意大利 第一季（全六集） Stanley Tucci: Searching for Italy-S1(CNN)
+https://www.acfun.cn/a/aa6077377
+65. *普京的见证人 Putin's Witness (公视）
+https://www.acfun.cn/v/ac35005269
+66. *是谁偷走南非？How To Steal a Nation（公视）
+https://www.acfun.cn/v/ac35006027
+67-69. *合辑：南国启示录（全三集） （公视）
+https://www.acfun.cn/a/aa6084169
+70. *国王制造者 King's Maker（公视）
+https://www.acfun.cn/v/ac35016734
+71. *为何会贫穷：出路 WHY POVERTY: Education,education(THE WHY FOUNDATION)
+https://www.acfun.cn/v/ac35018231
+72. *请为我投票 WHY DEMOCRACY: Please Vote for Me(THE WHY FOUNDATION)
+https://www.acfun.cn/v/ac35018231
+73. *反疫苗大哉问 The Anti-vex Conspiracy(公视）
+https://www.acfun.cn/v/ac35028399
+74. *亚洲视角：“躺平”的年轻人 ASIAN INSIGHT:Young People "Lying Flat" in China（NHK)
+https://www.acfun.cn/v/ac35061768
+75. *亚洲视角：救助流浪人群 ASIAN INSIGHT:Helping Homeless Migrants: Shenzhen, China(NHK)
+https://www.acfun.cn/v/ac35062121
+76. *棉花（周浩）
+https://www.acfun.cn/v/ac35062274
+77. *出·路
+https://www.acfun.cn/v/ac35069234
+78. *江南弃儿
+https://www.acfun.cn/v/ac35070398
+https://www.bilibili.com/video/BV1b34y177Xd?share_source=copy_web
+79. 江南弃儿（英文版）China’s Lost and Found Daughters（ALJAZEERA)
+https://www.youtube.com/watch?v=boldBNm_LwY&ab_channel=SanleongJiu
+80. *合辑：报道中国之旅 ASSIGNMENT:CHINA （南加州大学美中学院）
+https://www.acfun.cn/a/aa6081953
+81. *丑陋快时尚 Fast Fashion - Les dessous de la mode à bas prix（公视）
+https://www.acfun.cn/v/ac35083661
+https://www.bilibili.com/video/BV1G34y177zs
+82-89. *合辑：美国流行事件簿：90年代（全八集） The Nineties （香港电视娱乐）
+https://www.acfun.cn/a/aa6080203
+90. 六四黑夜：天安门事件修复影像 Black Night In June(YouTube)
+https://www.youtube.com/watch?v=EbvMgXz7rvM
+91-94. *凤凰大视野：嫁到台湾-陆配十二个人史（全五集，缺第二集）（凤凰卫视）
+https://www.acfun.cn/a/aa6081952
+95. *惊爆乌克兰 Krieg in Europa - Das Ukraine-Drama（公视）
+https://www.acfun.cn/v/ac35127578
+96-98. *合辑：人生七年9（全三集） 63up（公视）
+https://www.acfun.cn/a/aa6081951
+https://www.bilibili.com/video/BV12Y4y1V7gu
+https://www.bilibili.com/video/BV1CZ4y147Uu?vd_source=233cdcbaa3a013cc4e8e2923f1c24a08
+99. 采访最前线：权心权意：普京执政二十年 FOREIGN CORRESPONDENT: Becoming Putin(ABC)
+https://www.acfun.cn/v/ac35150008
+100. *杀马特：我爱你（公视）
+https://www.acfun.cn/v/ac35150008
+https://www.bilibili.com/video/BV19a411L7Yr?spm_id_from=333.337.search-card.all.click
+101-103. 合辑：毒品秘辛（全三集） THE STORY OF DRUG TRAFFICKING(ARTE)
+https://www.acfun.cn/a/aa6081950
+https://www.bilibili.com/video/BV1kU4y197tH
+https://www.bilibili.com/video/BV1NS4y1p7DC?vd_source=233cdcbaa3a013cc4e8e2923f1c24a08
+104-106. *合辑：纽约大都会艺术博物馆：艺术不打烊 Inside the MET（公视）
+https://www.acfun.cn/a/aa6081949
+https://www.bilibili.com/video/BV1mY411K75b?vd_source=233cdcbaa3a013cc4e8e2923f1c24a08
+https://www.bilibili.com/video/BV1pY4y1G7Q6?vd_source=233cdcbaa3a013cc4e8e2923f1c24a08
+https://www.bilibili.com/video/BV1Qa411L7J4?vd_source=233cdcbaa3a013cc4e8e2923f1c24a08
+107. *超机智牢房的想像生活Tales from the Prison Cell（公视）
+https://www.acfun.cn/v/ac35232271
+https://www.bilibili.com/video/BV1Z94y117p3
+108. *大同（周浩）The Chinese Mayor（香港电台）
+https://www.acfun.cn/v/ac35253611
+109-110. *少年小赵 A Young Patriot（凤凰卫视/香港电台）
+https://www.acfun.cn/v/ac35257187
+https://www.acfun.cn/v/ac35257187
+111. *厚街（周浩）（阳光卫视）
+https://www.acfun.cn/v/ac35305720
+112. *高三（周浩）（阳光卫视）
+https://www.acfun.cn/v/ac35305720
+113-114. 合辑：解救阿桑奇（全二集） Ithaka: A Fight to Free Julian Assange(ABC)
+https://www.acfun.cn/a/aa6083571
+115. 同志本色 Cured(PBS)
+https://www.acfun.cn/a/aa6083571
+116. *另一种注目：高龄女子育儿梦（镜电视）
+https://www.acfun.cn/v/ac35340660
+117. *另一种注目：疫情下的老字号（镜电视）
+https://www.acfun.cn/v/ac35340660
+118-121. *合辑：解构韩流（广东话版/全四集） Deciphering Korea（香港电台）
+https://www.acfun.cn/a/aa6083892
+https://www.bilibili.com/video/BV1kg411X7Wa
+https://www.bilibili.com/video/BV1aL4y1A7pm?vd_source=233cdcbaa3a013cc4e8e2923f1c24a08
+122. *寻狼之路(广东话版）NAÏS IN THE LAND OF WOLVES（香港电台）
+https://www.acfun.cn/v/ac35377081
+123-126. *合辑：寻找蒋经国（全四集/公视）
+https://www.acfun.cn/a/aa6084053
+127. *加沙日与夜：无解的巴以悲剧 Gaza（公视）
+https://www.acfun.cn/a/aa6084053
+128-136. *合辑：我在市场待了一整天(全九集） See You At the Market（公视）
+https://www.acfun.cn/a/aa6084385
+137-144. *合辑：我又在市场待了一整天（全八集） See You At the Market II（公视）
+https://www.acfun.cn/a/aa6084840
+145-147. *合辑：金三角运毒秘辛（全三集） Traffickers: Inside the Golden Triangle（HBO）
+https://www.acfun.cn/a/aa6084620
+https://www.bilibili.com/video/BV1zS4y1H7E9?spm_id_from=333.999.0.0&vd_source=233cdcbaa3a013cc4e8e2923f1c24a08
+https://www.bilibili.com/video/BV1tT411V7zJ/?spm_id_from=333.788.recommend_more_video.0&vd_source=233cdcbaa3a013cc4e8e2923f1c24a08
+https://www.bilibili.com/video/BV1QY4y1J762/?spm_id_from=333.788.recommend_more_video.3&vd_source=233cdcbaa3a013cc4e8e2923f1c24a08
+148. Gilly and Keeves短篇喜剧：动感单车碧池 Peloton - Gilly and Keeves Mini(YouTube)
+https://www.acfun.cn/v/ac34973110
+https://www.bilibili.com/video/BV1s34y1E7jn?vd_source=233cdcbaa3a013cc4e8e2923f1c24a08
+149. Gilly and Keeves短篇喜剧：OnlyFans老爹 OnlyFans Dad - Gilly and Keeves(YouTube)
+https://www.bilibili.com/video/BV16Y4y1z7WT?vd_source=233cdcbaa3a013cc4e8e2923f1c24a08
+150. Gilly and Keeves短篇喜剧：川普式相亲 Trump Speed Dating - Gilly and Keeves(YouTube)
+https://www.acfun.cn/v/ac34947928
+151. 郭文贵疑云 101EAST:Mysterious Guo Wengui(ALJAZEERA)
+https://www.youtube.com/watch?v=-Yh7KJRfKk4&ab_channel=SanleongJiu
+152. 聚焦亚洲：亚洲商界领袖特辑 - 刘长乐 Focus Asia: Asia Business Leaders - Liu Changle(BBC)
+https://www.youtube.com/watch?v=XyI_656g6iU&ab_channel=SanleongJiu
+153. Sinica Podcast 中国学者陈定定谈中国在俄罗斯-乌克兰战争的立场 Beijing's position in the Russo-Ukrainian War(SUPCHINA)
+https://www.youtube.com/watch?v=BF-gDkAQ52o&ab_channel=SanleongJiu
+154. 我是乡巴佬 Hillbilly(ALJAZEERA)
+https://www.acfun.cn/v/ac35471017
+https://www.bilibili.com/video/BV1y34y1H77F?spm_id_from=333.999.0.0&vd_source=233cdcbaa3a013cc4e8e2923f1c24a08
+155. 娶个亚洲新娘 Seeking Asian Female
+https://www.bilibili.com/video/BV1aY4y1n73u/
+https://www.acfun.cn/v/ac35496199
+156. 人与权力：探秘比特币
+https://www.bilibili.com/video/BV1fV4y1J7VH/
+https://www.youtube.com/watch?v=FeoP4dI-C0s&t=208s&ab_channel=SanleongJiu
 
 ### Markdown
 
